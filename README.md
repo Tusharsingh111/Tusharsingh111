@@ -3,7 +3,7 @@
 
 
 
-- 💬 Ask me about ``` var topics = [ "HTML", "JavaScript", "Python", "CSS", "ReactJs", "SQL/NoSQL"] ```
+- 💬 Ask me about ``` var topics = [ "HTML", "JavaScript", "CSS", "ReactJs", "SQL/NoSQL","JAVA","CPP","PHP",] ```
 
 - 📄 Know about my work & experiences [My Resume]()
 - 📧 [Reach me out!](mailto:tusharsingh11088@gmail.com)
