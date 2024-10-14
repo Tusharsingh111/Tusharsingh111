@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻 I'm Tushar Singh</h1>
-<h3 align="center">git commit -m "Hello, I'm a developer and love to develop my own ideas!"</h3>
+<h3 align="center"> "Hello, I'm a developer and love to develop my own ideas!"</h3>
 
 
 
@@ -11,7 +11,7 @@
 
 
 ### What can I help with:question::cyclone:
-<code>git commit -m "All about GitHub!"</code> :grin:
+<code> "All about GitHub!"</code> :grin:
 
 
 <h3 align="left">Connect with me:</h3>
