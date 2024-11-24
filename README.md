@@ -18,7 +18,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/tushar-singh11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asim1909" height="30" width="40" /></a>
-<a href="https://instagram.com/tushar.chauhan11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asim1909" height="30" width="40" /></a>
+<a href="https://instagram.com/chaudhary.tusharr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asim1909" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asim1909&label=Profile%20views&color=0e75b6&style=flat" alt="Tusharsingh111" /> </p>
